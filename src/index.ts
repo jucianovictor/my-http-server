@@ -1,5 +1,5 @@
 export default function start(): void {
-	document.body.appendChild(document.createElement('h1')).textContent = 'Hello';
+	document.body.appendChild(document.createElement('h1')).textContent = ':D';
 }
 
 start();
